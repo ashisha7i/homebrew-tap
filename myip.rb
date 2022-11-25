@@ -1,4 +1,4 @@
-class MyipHbf < Formula
+class Myip < Formula
   desc "Simple Homebrew formula for finding public ip address (shell script)"
   homepage ""
   url "https://github.com/ashisha7i/myip-hbf/archive/refs/tags/v0.0.1.tar.gz"
