@@ -8,7 +8,6 @@ class Myip < Formula
 
   def install
     bin.install "bin/myip"
-    bin.install "bin/gpvpn"
   end
 
 end
