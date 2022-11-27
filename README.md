@@ -8,10 +8,6 @@ __Installation__: First run `brew tap ashisha7i/tap` followed by `brew install m
 
 You can now use the command `myip` to print your IP address
 
-__Screenshot__: 
-
-![Screenshot of myip](https://raw.githubusercontent.com/ashisha7i/myip-hbf/main/myip.png)
-
 
 ### gpvpn
 
