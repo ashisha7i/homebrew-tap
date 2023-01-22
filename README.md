@@ -20,7 +20,7 @@ You can now use the command `gpvpn on` to turn the VPN on and `gpvpn off` to tur
 
 ### lockutil
 
-Utility command (wrapper around `chflags` command)
+Utility command (wrapper around `chflags` command) ** Mac Only
 
 __Installation__: First run `brew tap ashisha7i/tap` followed by `brew install lockutil`
 
