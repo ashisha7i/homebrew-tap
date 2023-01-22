@@ -16,3 +16,12 @@ Small utility command to turn GPVPN on/off
 __Installation__: First run `brew tap ashisha7i/tap` followed by `brew install gpvpn`
 
 You can now use the command `gpvpn on` to turn the VPN on and `gpvpn off` to turn off the GPVPN client.
+
+
+### lockutil
+
+Utility command (wrapper arounf chflags uchg|nouchg) command)
+
+__Installation__: First run `brew tap ashisha7i/tap` followed by `brew install lockutil`
+
+You can now use the command 'lockutil lock <filename>' or 'lockutil unlock <filename>'
