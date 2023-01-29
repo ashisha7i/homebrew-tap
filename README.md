@@ -28,3 +28,8 @@ You can now use the command 'lockutil lock <filename>' or 'lockutil unlock <file
 
 ### mgmprops
 
+Small utility command to view MGM Property Details
+
+__Installation__: First run `brew tap ashisha7i/tap` followed by `brew install mgmprops`
+
+You can now use the command `mgmprops prod` or `mgmprops qa` to view the property details for the selected environment
