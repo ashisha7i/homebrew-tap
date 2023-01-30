@@ -3,8 +3,8 @@ class Getquote < Formula
 
   desc "Sample formula for getting a quote from forismatic.com API"
   homepage "https://github.com/ashisha7i/homebrew-formulae"
-  url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v0.0.7.tar.gz"
-  sha256 "1ab9a5b4bab5e540823dbd012074aa82a8b31c6192f4b7cba518df51845fc772"
+  url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v0.0.8.tar.gz"
+  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
   depends_on "python@3.9"
 
