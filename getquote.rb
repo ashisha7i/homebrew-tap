@@ -4,7 +4,7 @@ class Getquote < Formula
   desc "Sample formula for getting a quote from forismatic.com API"
   homepage "https://github.com/ashisha7i/homebrew-formulae"
   url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v0.0.8.tar.gz"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "afe9d7a2a779928b421995d502cf932ea0f33ab11adc4835de9f34b20a33bcd8"
 
   depends_on "python@3.9"
 
