@@ -35,7 +35,8 @@ class Getquote < Formula
 
   def install
     virtualenv_install_with_resources
-    #bin.install "bin/getquote.py"
+    system "python3", *Language::Python.setup_install_args(prefix)
+    bin.install "bin/getquote.py"
   end
 
 end
