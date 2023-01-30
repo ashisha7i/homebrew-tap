@@ -15,7 +15,7 @@ class Getquote < Formula
 
   def install
     virtualenv_install_with_resources
-    bin.install "getquote.py"
+    bin.install "bin/getquote.py"
   end
 
 end
