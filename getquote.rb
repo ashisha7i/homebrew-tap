@@ -3,8 +3,8 @@ class Getquote < Formula
 
   desc "Sample formula for getting a quote from forismatic.com API"
   homepage "https://github.com/ashisha7i/homebrew-formulae"
-  url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v0.0.9a.tar.gz"
-  sha256 "7df3d43fbb48e3711d8b443e2a238468626f211f2f3785fd4cfbfebb542e2e22"
+  url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v0.0.9b.tar.gz"
+  sha256 "bce3e3edf44d2a0ee613d9a74996a2f28fc6ae6ebd0864c5805232f9a783562f"
 
   depends_on "python@3.9"
 
@@ -35,11 +35,7 @@ class Getquote < Formula
 
   def install
     virtualenv_install_with_resources
-    entry_points={
-        'console_scripts': [
-            'getquote=getquote:main'
-        ]
-    }
+    #bin.install "getquote.py"
   end
 
 end
