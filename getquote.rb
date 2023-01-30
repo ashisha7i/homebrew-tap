@@ -1,4 +1,4 @@
-class GetQuote < Formula
+class Getquote < Formula
   desc "Sample formula for getting a quote from forismatic.com API"
   homepage "https://github.com/ashisha7i/homebrew-formulae"
   url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v0.3.0.tar.gz"
