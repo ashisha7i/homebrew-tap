@@ -9,7 +9,7 @@ class Mgmprops < Formula
   
   
     def install
-      bin.install "bin/mgmprops" => "propdeets"
+      bin.install "bin/mgmprops"
     end
   
   end
