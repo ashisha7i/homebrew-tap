@@ -1,4 +1,6 @@
 class Holidays < Formula
+    depends_on "dateutils"
+
     desc "Simple Homebrew formula to show the holidays for the year 2023"
     homepage "https://github.com/ashisha7i/homebrew-formulae"
     url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v1.0.5.tar.gz"
