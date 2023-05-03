@@ -33,3 +33,11 @@ Small utility command to view MGM Property Details
 __Installation__: First run `brew tap ashisha7i/tap` followed by `brew install mgmprops`
 
 You can now use the command `mgmprops prod` or `mgmprops qa` to view the property details for the selected environment
+
+### cdpcodes
+
+Small utility command to view CDP Codes for MGM Properties
+
+__Installation__: First run `brew tap ashisha7i/tap` followed by `brew install cdpcodes`
+
+You can now use the command `cdpcodes` to see the name, id and SP id for MGM Properties
