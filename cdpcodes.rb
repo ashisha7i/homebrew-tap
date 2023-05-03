@@ -1,4 +1,4 @@
-class Mgmprops < Formula
+class Cdpcodes < Formula
     depends_on "jq" 
     desc "Installs 'cdpcodes' command that can be used to fetch details for CSP codes for MGM properties"
     homepage "https://github.com/ashisha7i/homebrew-formulae"
