@@ -3,7 +3,7 @@ class Cdpcodes < Formula
     desc "Installs 'cdpcodes' command that can be used to fetch details for CSP codes for MGM properties"
     homepage "https://github.com/ashisha7i/homebrew-formulae"
     url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v1.0.8.tar.gz"
-    sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    sha256 "3d3ea557fdbb7137142e525907f7566096058a85c4658c04cecf48326543070b"
     license "MIT"
   
   
