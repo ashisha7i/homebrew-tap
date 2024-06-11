@@ -3,8 +3,8 @@ class Mgmprops < Formula
     depends_on "jq" 
     desc "Installs 'mgmprop' command that can be used to fetch details for MGM properties"
     homepage "https://github.com/ashisha7i/homebrew-formulae"
-    url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v1.0.6.tar.gz"
-    sha256 "18a26a56331b23e9eb9ea99d6bb47bfc592fa85b0982216224ee1c739139213b"
+    url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v1.0.11.tar.gz"
+    sha256 "dcc771e43082ed757306956fd75b419dd647cc6cbb2caf3d7aca3a36d17c0a23"
     license "MIT"
   
   
