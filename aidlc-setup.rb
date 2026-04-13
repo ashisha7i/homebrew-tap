@@ -2,8 +2,8 @@ class AidlcSetup < Formula
   desc "Install AI-DLC rules for Cline"
   homepage "https://github.com/ashisha7i/homebrew-formulae"
 
-  url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v1.0.16.tar.gz"
-  sha256 "3adcbcf14737b02e5535507056d53de1b2f0b95260f042a2e051d42df2a797d3"
+  url "https://github.com/ashisha7i/homebrew-formulae/archive/refs/tags/v1.0.17.tar.gz"
+  sha256 "3edfeb10af0221b1e57ed34a978b4109118888a8bc243d0e6bd3b14a07f33b95"
 
   license "MIT"
 
